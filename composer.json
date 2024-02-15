@@ -1,0 +1,17 @@
+{
+    "name": "vscode/php",
+    "type": "composer-plugin",
+    "license": "ISC",
+    "autoload": {
+        "psr-4": {
+            "Vscode\\Php\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sacha0914",
+            "email": "sacha0914.poidevin@gmail.com"
+        }
+    ],
+    "require": {}
+}
