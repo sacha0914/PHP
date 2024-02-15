@@ -1,5 +1,5 @@
 {
-    "name": "vscode/phpcomposermds",
+    "name": "vscodemds/phpcomposermds",
     "type": "composer-plugin",
     "license": "ISC",
     "autoload": {
